@@ -34,7 +34,7 @@ techniques, followed by training on CNN.
    -  Link to the project repository: https://github.com/harshitamandalika/Bank-Customers-Analysis
 
 6. **Analyzing Customer Churn using Power BI**
-   - It is a critical metric that directly affects a company's profitability and growth. By analyzing the reasons behind churn, businesses can implement strategies to improve customer satisfaction and retention, ultimately reducing customer churn rates. Retaining existing customers is typically more cost-effective than acquiring new ones. Therefore, reducing churn is a priority for many companies. In this project, reasons for customer churn are analyzed using Power BI.
+   - Retaining existing customers is typically more cost-effective than acquiring new ones. Therefore, reducing churn is a priority for many companies. In this project, reasons for customer churn are analyzed using Power BI.
    - https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI
      
 
