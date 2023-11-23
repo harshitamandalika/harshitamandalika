@@ -19,7 +19,7 @@ Here are some of the projects I have completed:
 
 
 2. **Brain Tumor Detection**
-   - Proposed three methods to detect Brain tumors from MRI scans. The first method involved detecting brain tumors using image processing alone. This included the following: pre-processing, filtering, image segmentation, and morphological operations. The second and third methods involved using Gaussian Blur and Canny Edge Detection
+   - Proposed three methods to detect Brain tumors from MRI scans. The first method involved detecting brain tumors using image processing alone. This included the following: pre-processing, filtering, image segmentation, and morphological operations. The second and third methods involved using Gaussian Blur and Canny Edge Detection
 techniques, followed by training on CNN.
 
 3. **Prediction of Dengue Fever**
