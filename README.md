@@ -27,16 +27,19 @@ techniques, followed by training on CNN.
 
 4. **Detection of Lung Diseases using Deep Learning**
    - The dataset comprises lung X-ray images categorized into 15 classes, encompassing 14 different diseases, along with a label indicating no pathological findings.
+  
+5. **Leaf Disease Detection**
+   - The PlantVillage dataset is used to classify leaf images into healthy and diseased. Convolutional Neural Networks is used for training and classification of these images.
 
-5. **Employees Database using SQL**
+6. **Employees Database using SQL**
    - Employees database consists of 6 tables namely, employees, dept_manager, departments, titles, salaries, and dept_emp. Queries are written using SQL to extract the necessary information.
    - Link to the project repository: https://github.com/harshitamandalika/Employees-Database-using-SQL
      
-6. **Bank Customers Analysis using Tableau**
+7. **Bank Customers Analysis using Tableau**
    -  The customers' data is visualized using Tableau. This analysis provides insights about how customers having different jobs, belonging to various age groups and gender are spread across regions. This helps in converting more customers by reaching the right set of people.
    -  Link to the project repository: https://github.com/harshitamandalika/Bank-Customers-Analysis
 
-7. **Analyzing Customer Churn using Power BI**
+8. **Analyzing Customer Churn using Power BI**
    - Retaining existing customers is typically more cost-effective than acquiring new ones. Therefore, reducing churn is a priority for many companies. In this project, reasons for customer churn are analyzed using Power BI.
    -  Link to the project repository: https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI
 
