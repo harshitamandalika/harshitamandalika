@@ -26,7 +26,7 @@ techniques, followed by training on CNN.
    - Performed data cleaning, hyperparameter optimization, and feature selection, then trained the model. Found that Dengue Fever Count cannot be predicted accurately based on climatic factors alone. The other factors influencing dengue spread are studied.
 
 4. **Detection of Lung Diseases using Deep Learning**
-   - The dataset comprises over 120,000 lung X-ray images categorized into 15 classes, encompassing 14 different diseases, along with a label indicating no pathological findings.
+   - The dataset comprises of lung X-ray images categorized into 15 classes, encompassing 14 different diseases, along with a label indicating no pathological findings.
 
 5. **Employees Database using SQL**
    - Employees database consists of 6 tables namely, employees, dept_manager, departments, titles, salaries, and dept_emp. Queries are written using SQL to extract the necessary information.
