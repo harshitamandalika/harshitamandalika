@@ -15,7 +15,7 @@
 Here are some of the projects I have completed:
 
 1. **Credit Card Fraud Detection**
-   - Worked with a highly imbalanced and large dataset for classifying credit card transactions as fraudulent and nonfraudulent. Performed extensive data preprocessing, data balancing and training of an ML model. Obtained an accuracy of 99.999% and achieved ‘0’ false negatives. Further, used Apache Spark to reduce training time.
+   - Worked with a highly imbalanced and large dataset for classifying credit card transactions as fraudulent and non-fraudulent. Performed extensive data preprocessing, data balancing and training of an ML model. Obtained an accuracy of 99.999% and achieved ‘0’ false negatives. Further, used Apache Spark to reduce training time.
 
 
 2. **Brain Tumor Detection**
