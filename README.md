@@ -6,6 +6,7 @@
 
 - 💻 **Programming Languages:** Python, SQL, HTML, CSS
 - 👩‍💻 **Technical Skills:** Machine Learning, Data Mining, Deep Learning, Image Processing, Data Analysis, Data Visualization
+- 🟰 **Mathematical Skills:** Discrete Mathematics, Random Processes and Statistics, Linear Algebra and Differential Equations, Calculus
 - 📊 **Data Visualization Tools:** Power BI, Tableau, Excel
 - 🌈 **Soft Skills:**  Communication, Critical Thinking, Detail-oriented, Problem-solving, Time management, Analytical Thinking
 
@@ -24,22 +25,20 @@ techniques, followed by training on CNN.
 3. **Prediction of Dengue Fever**
    - Performed data cleaning, hyperparameter optimization, and feature selection, then trained the model. Found that Dengue Fever Count cannot be predicted accurately based on climatic factors alone. The other factors influencing dengue spread are studied. 
 
-4. 
+4. **Employees Database using SQL**
+   - Employees database consists of 6 tables namely, employees, dept_manager, departments, titles, salaries, and dept_emp. Queries are written using SQL to extract the necessary information.
+   - Link to the project repository: https://github.com/harshitamandalika/Employees-Database-using-SQL
+     
+5. **Bank Customers Analysis using Tableau**
+   -  The customers' data is visualized using Tableau. This analysis provides insights about how customers having different jobs, belonging to various age groups and gender are spread across regions. This helps in converting more customers by reaching the right set of people.
+   -  Link to the project repository: https://github.com/harshitamandalika/Bank-Customers-Analysis
 
-<🌱 I’m a Data Science enthusiast interested in Machine Learning, Deep Learning and Data Analytics. >
+6. **Analyzing Customer Churn using Power BI**
+   - It is a critical metric that directly affects a company's profitability and growth. By analyzing the reasons behind churn, businesses can implement strategies to improve customer satisfaction and retention, ultimately reducing customer churn rates. Retaining existing customers is typically more cost-effective than acquiring new ones. Therefore, reducing churn is a priority for many companies. In this project, reasons for customer churn are analyzed using Power BI.
+   - https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI
+     
 
-🌱 I 
-
-🌱 I like analyzing and exploring data to discover valuable insights.
-
-🌱 I am fond of these data topics: Data Mining, Data Manipulation and Data Visualization.   
-
-🌱 I possess the following skills: 
-   - SQL
-   - Power BI
-   - Tableau
-   - Python
-   - Statistics
+ 
 
 
 
