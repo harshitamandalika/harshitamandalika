@@ -36,7 +36,15 @@ techniques, followed by training on CNN.
 6. **Analyzing Customer Churn using Power BI**
    - Retaining existing customers is typically more cost-effective than acquiring new ones. Therefore, reducing churn is a priority for many companies. In this project, reasons for customer churn are analyzed using Power BI.
    -  Link to the project repository: https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI
-     
+
+## Connect with Me
+
+- 📧 **Email:** mandalikaharshita2009@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/harshita-mandalika/
+
+Feel free to explore my repositories and connect with me! Whether you're interested in collaborating on a project, discussing the latest trends in machine learning, or just grabbing a virtual coffee, I'm always open to new connections and exciting opportunities. Let's innovate together and make a positive impact through technology! 🚀✨
+
+
 
  
 
