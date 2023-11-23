@@ -1,6 +1,10 @@
-### Hi there 👋
+# Welcome to Harshita Mandalika's GitHub Page!
 
-🌱 I’m an aspiring Data Analyst and a Machine Learning enthusiast.  
+👋 Hi there! I'm Harshita Mandalika, a passionate individual with a keen interest in machine learning, deep learning, and data analytics. I believe in the power of data to drive informed decision-making and create intelligent solutions.
+
+<🌱 I’m a Data Science enthusiast interested in Machine Learning, Deep Learning and Data Analytics. >
+
+🌱 I 
 
 🌱 I like analyzing and exploring data to discover valuable insights.
 
