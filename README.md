@@ -2,6 +2,8 @@
 
 👋 Hi there! I'm Harshita Mandalika, a passionate individual with a keen interest in Machine Learning, Deep Learning, and Data Analytics. I believe in the power of data to drive informed decision-making and create intelligent solutions.
 
+⭐ Recently, my research paper on the Prediction of Dengue Fever using Machine Learning got accepted to the Inderscience Journal- 'International Journal of Artificial Intelligence and Soft Computing' and is currently in the press for publication.
+
 ## Skills
 
 - 💻 **Programming Languages:** Python, SQL, HTML, CSS
@@ -23,7 +25,7 @@ Here are some of the projects I have completed:
 techniques, followed by training on CNN.
 
 3. **Prediction of Dengue Fever**
-   - Performed data cleaning, hyperparameter optimization, and feature selection, then trained the model. Found that Dengue Fever Count cannot be predicted accurately based on climatic factors alone. The other factors influencing dengue spread are studied.
+   - Performed data cleaning, hyperparameter optimization, and feature selection, then trained the model. Found that Dengue Fever Count cannot be predicted accurately based on climatic factors alone. The other factors influencing dengue spread are studied. This work has been accepted for publication in the Inderscience Journal- 'International Journal of Artificial Intelligence and Soft Computing'.
 
 4. **Detection of Lung Diseases using Deep Learning**
    - The dataset comprises lung X-ray images categorized into 15 classes, encompassing 14 different diseases, along with a label indicating no pathological findings.
