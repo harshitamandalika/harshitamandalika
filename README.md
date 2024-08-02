@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Harshita Mandalika, a passionate individual with a keen interest in Machine Learning, Deep Learning, and Data Analytics. I believe in the power of data to drive informed decision-making and create intelligent solutions.
 
-⭐ Recently, my **research paper** on the **Prediction of Dengue Fever using Machine Learning** was published** in the **Inderscience Journal- 'International Journal of Artificial Intelligence and Soft Computing'**.
+⭐ Recently, my **research paper** on the **Prediction of Dengue Fever using Machine Learning** was **published** in the **Inderscience Journal- 'International Journal of Artificial Intelligence and Soft Computing'**.
 
 ## Skills
 
@@ -17,7 +17,7 @@
 Here are some of the projects I have completed:
 
 1.  **Prediction of Dengue Fever**
-   - Performed data cleaning, hyperparameter optimization, and feature selection, then trained the model. Found that Dengue Fever Count cannot be predicted accurately based on climatic factors alone. The other factors influencing dengue spread are studied. This work has been accepted for publication in the Inderscience Journal- 'International Journal of Artificial Intelligence and Soft Computing'.
+   - Performed data cleaning, hyperparameter optimization, and feature selection, then trained the model. Found that Dengue Fever Count cannot be predicted accurately based on climatic factors alone. The other factors influencing dengue spread are studied. This work has been **published** in the **Inderscience Journal- 'International Journal of Artificial Intelligence and Soft Computing'**.
 
 
 2. **Brain Tumor Detection**
