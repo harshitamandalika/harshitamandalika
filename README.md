@@ -16,7 +16,7 @@
 
 Here are some of the projects I have completed:
 
-1.  **Prediction of Dengue Fever**
+1. **Prediction of Dengue Fever**
    - Performed data cleaning, hyperparameter optimization, and feature selection, then trained the model. Found that Dengue Fever Count cannot be predicted accurately based on climatic factors alone. The other factors influencing dengue spread are studied. This work has been **published** in the **Inderscience Journal- 'International Journal of Artificial Intelligence and Soft Computing'**.
 
 
