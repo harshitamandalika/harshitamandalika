@@ -49,12 +49,12 @@ techniques, followed by training on CNN.
    - Link to the project repository: https://github.com/harshitamandalika/Employees-Database-using-SQL
      
 10. **Bank Customers Analysis using Tableau**
-   - The customers' data is visualized using Tableau. This analysis provides insights about how customers having different jobs, belonging to various age groups and gender are spread across regions. This helps in converting more customers by reaching the right set of people.
-   - Link to the project repository: https://github.com/harshitamandalika/Bank-Customers-Analysis
+    - The customers' data is visualized using Tableau. This analysis provides insights about how customers having different jobs, belonging to various age groups and gender are spread across regions. This helps in converting more customers by reaching the right set of people.
+    - Link to the project repository: https://github.com/harshitamandalika/Bank-Customers-Analysis
 
 11. **Analyzing Customer Churn using Power BI**
-   - Retaining existing customers is more cost-effective than acquiring new ones, making churn reduction a top priority for many companies. This project leverages Power BI to analyze the key reasons behind customer churn.
-   - Link to the project repository: https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI
+    - Retaining existing customers is more cost-effective than acquiring new ones, making churn reduction a top priority for many companies. This project leverages Power BI to analyze the key reasons behind customer churn.
+    - Link to the project repository: https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI
 
 ## Connect with Me
 
