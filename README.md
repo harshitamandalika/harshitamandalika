@@ -19,40 +19,47 @@ Here are some of the projects I have completed:
 1. **Prediction of Dengue Fever**
    - Performed data cleaning, hyperparameter optimization, and feature selection, then trained the model. Found that Dengue Fever Count cannot be predicted accurately based on climatic factors alone. The other factors influencing dengue spread are studied. This work has been **published** in the **Inderscience Journal- 'International Journal of Artificial Intelligence and Soft Computing'**.
 
-
-2. **Brain Tumor Detection**
+2. **Multimodal Machine Learning for Meal Nutrition Analysis**
+   - This project predicts meal calorie content by integrating time-series data - CGM data, image data, and tabular data- demographic & gut viome data using a multimodal machine learning approach. It demonstrates the potential of data fusion techniques to enhance health tracking and dietary recommendations.
+     
+4. **Brain Tumor Detection**
    - Proposed three methods to detect Brain tumors from MRI scans. The first method involved detecting brain tumors using image processing alone. This included the following: pre-processing, filtering, image segmentation, and morphological operations. The second and third methods involved using Gaussian Blur and Canny Edge Detection
 techniques, followed by training on CNN.
 
-3. **Credit Card Fraud Detection**
+5. **Credit Card Fraud Detection**
    - Worked with a highly imbalanced and large dataset for classifying credit card transactions as fraudulent and non-fraudulent. Performed extensive data preprocessing, data balancing and training of an ML model. Obtained an accuracy of 99.999% and achieved ‘0’ false negatives. Further, used Apache Spark to reduce training time.
 
-4. **Detection of Lung Diseases using Deep Learning**
+6. **Detection of Lung Diseases using Deep Learning**
    - The dataset comprises lung X-ray images categorized into 15 classes, encompassing 14 different diseases, along with a label indicating no pathological findings.
 
-5. **Bank Marketing Segmentation**
+7. **Bank Marketing Segmentation**
    - This project aims to detect whether a particular customer will opt for term deposits. Machine Learning is used to train the algorithms on the dataset. Several pre-processing steps are applied to the dataset and refined for future use. Firstly, the outliers in the dataset are removed and then a label encoder is used to transform the data. Then, the data is balanced and trained using ML algorithms.
    - Link to the project repository: https://github.com/harshitamandalika/Bank-Marketing-Segmentation
 
-6. **Leaf Disease Detection**
+8. **Leaf Disease Detection**
    - The PlantVillage dataset is used to classify leaf images into healthy and diseased. Convolutional Neural Networks is used for training and classification of these images.
 
-7. **Employees Database using SQL**
+9. **Employees Database using SQL**
    - Employees database consists of 6 tables namely, employees, dept_manager, departments, titles, salaries, and dept_emp. Queries are written using SQL to extract the necessary information.
    - Link to the project repository: https://github.com/harshitamandalika/Employees-Database-using-SQL
      
-8. **Bank Customers Analysis using Tableau**
+10. **Bank Customers Analysis using Tableau**
    -  The customers' data is visualized using Tableau. This analysis provides insights about how customers having different jobs, belonging to various age groups and gender are spread across regions. This helps in converting more customers by reaching the right set of people.
    -  Link to the project repository: https://github.com/harshitamandalika/Bank-Customers-Analysis
 
-9. **Analyzing Customer Churn using Power BI**
+11. **Analyzing Customer Churn using Power BI**
    - Retaining existing customers is typically more cost-effective than acquiring new ones. Therefore, reducing churn is a priority for many companies. In this project, reasons for customer churn are analyzed using Power BI.
    -  Link to the project repository: https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI
 
 ## Connect with Me
 
-- 📧 **Email:** mandalikaharshita2009@gmail.com
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/harshita-mandalika/
+<!-- 📧 **Email:** mandalikaharshita2009@gmail.com -->
+<!-- 🔗 **LinkedIn:** https://www.linkedin.com/in/harshita-mandalika/-->
+
+<!-- <a href="https://github.com/your-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> -->
+<a href="https://www.linkedin.com/in/harshita-mandalika/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:harshitamandalika029@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 
 Feel free to explore my repositories and connect with me! Whether you're interested in collaborating on a project, discussing the latest trends in machine learning, or just grabbing a virtual coffee, I'm always open to new connections and exciting opportunities. Let's innovate together and make a positive impact through technology! 🚀✨
 
