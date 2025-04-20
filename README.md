@@ -4,7 +4,7 @@
 
 ⭐ **Exciting News!** My **research paper** on **"Prediction of Dengue Fever using Machine Learning"** was recently **published** in the prestigious **Inderscience Journal - 'International Journal of Artificial Intelligence and Soft Computing'**.
 
-🎓 I am currently pursuing my **Master of Science in Computer Science** at **Texas A&M University, College Station**, where I am further honing my skills and exploring innovative research in the field of AI and data science.
+🎓 I am currently pursuing my **Master's in Computer Science** at **Texas A&M University, College Station**, where I am further honing my skills and exploring innovative research in the field of AI and data science.
 
 ## Skills
 
