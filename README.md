@@ -24,11 +24,11 @@ Here are some of the projects I have completed:
 
 2. **Send Me Studies**
    - A personalized research paper recommender that ranks papers using BM25 similarity and summarizes top results with LLMs. Sends recommendations via email and updates user profiles based on feedback extracted from email replies. Profiles evolve over time using liked abstracts and LLM-refined interests, helping generate increasingly personalized and relevant recommendations.
-   - Link to the project repository: https://github.com/harshitamandalika/ISR_Project
+   - 🔗 [SendMeStudies on GitHub](https://github.com/harshitamandalika/ISR_Project)
 
 3. **VitaFin: Health and Budget Tracker Dashboard**
    - An interactive dashboard that brings both health and budget visualizations together in one place. Built with Python, Flask, JavaScript, Vue.js, and Chart.js, it allows users to input personal data and view dynamic, real-time trends through a clean, responsive interface—demonstrating full-stack development and insightful data integration.
-   - Link to the project repository: https://github.com/ApurvaMandalika9/DataVizProject-VitaFin
+   - 🔗 [VitaFin on GitHub](https://github.com/ApurvaMandalika9/DataVizProject-VitaFin)
    
 4. **Meal Nutrition Analysis using Multimodal data**
    -  Developed a multimodal machine learning model to predict meal calorie content by integrating time-series CGM data, image data, and tabular data, including demographics and gut microbiome, showcasing advanced data fusion techniques for health tracking and dietary recommendations. Achieved an RMSRE score of 0.3374.
