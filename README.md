@@ -26,7 +26,7 @@ Here are some of the projects I have completed:
    - A personalized research paper recommender that ranks papers using BM25 similarity and summarizes top results with LLMs. Sends recommendations via email and updates user profiles based on feedback extracted from email replies. Profiles evolve over time using liked abstracts and LLM-refined interests, helping generate increasingly personalized and relevant recommendations.
 
 2. **Meal Nutrition Analysis using Multimodal data**
-   -  Developed a multimodal machine learning model to predict meal calorie content by integrating time-series CGM data, image data, and tabular data, including demographics and gut microbiome, showcasing advanced data fusion techniques for health tracking and dietary recommendations.
+   -  Developed a multimodal machine learning model to predict meal calorie content by integrating time-series CGM data, image data, and tabular data, including demographics and gut microbiome, showcasing advanced data fusion techniques for health tracking and dietary recommendations. Achieved an RMSRE score of 0.3374.
      
 3. **Improving CLIP Training for Multimodal Learning**
    - Developed advanced training algorithms to enhance CLIP model performance in retrieval and zero-shot classification tasks and achieved an average score of 19.12. The approach achieved 2nd place in a competition, showcasing innovations in optimizing multimodal learning.
