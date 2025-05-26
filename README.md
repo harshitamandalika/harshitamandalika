@@ -47,10 +47,10 @@ techniques, followed by training on CNN.
    - Developed a deep learning model to classify chest X-rays into 14 lung disease categories and accurately predicted cases with no pathological findings.
 
 9. **Bank Marketing Segmentation**
-   - This project aims to detect whether a particular customer will opt for term deposits. Machine Learning is used to train the algorithms on the dataset. Several pre-processing steps are applied to the dataset and refined for future use. Firstly, the outliers in the dataset are removed and then a label encoder is used to transform the data. Then, the data is balanced and trained using ML algorithms.
-   - 🔗[Bank Marketing Segmentation on Github](https://github.com/harshitamandalika/Bank-Marketing-Segmentation)
+    - This project aims to detect whether a particular customer will opt for term deposits. Machine Learning is used to train the algorithms on the dataset. Several pre-processing steps are applied to the dataset and refined for future use. Firstly, the outliers in the dataset are removed and then a label encoder is used to transform the data. Then, the data is balanced and trained using ML algorithms.
+    - 🔗[Bank Marketing Segmentation on Github](https://github.com/harshitamandalika/Bank-Marketing-Segmentation)
 
-10. **Leaf Disease Detection**
+11. **Leaf Disease Detection**
    - Explored the PlantVillage dataset and used it to classify leaf images into healthy and diseased. Convolutional Neural Networks is used for training and classification of these images.
 
 11. **Employees Database using SQL**
