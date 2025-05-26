@@ -25,38 +25,41 @@ Here are some of the projects I have completed:
 2. **Send Me Studies**
    - A personalized research paper recommender that ranks papers using BM25 similarity and summarizes top results with LLMs. Sends recommendations via email and updates user profiles based on feedback extracted from email replies. Profiles evolve over time using liked abstracts and LLM-refined interests, helping generate increasingly personalized and relevant recommendations.
 
-2. **Meal Nutrition Analysis using Multimodal data**
+3. **VitaFin: Health and Budget Tracker Dashboard**
+   - An interactive dashboard that brings both health and budget visualizations together in one place. Built with Python, Flask, JavaScript, Vue.js, and Chart.js, it allows users to input personal data and view dynamic, real-time trends through a clean, responsive interface—demonstrating full-stack development and insightful data integration.
+   
+4. **Meal Nutrition Analysis using Multimodal data**
    -  Developed a multimodal machine learning model to predict meal calorie content by integrating time-series CGM data, image data, and tabular data, including demographics and gut microbiome, showcasing advanced data fusion techniques for health tracking and dietary recommendations. Achieved an RMSRE score of 0.3374.
      
-3. **Improving CLIP Training for Multimodal Learning**
+5. **Improving CLIP Training for Multimodal Learning**
    - Developed advanced training algorithms to enhance CLIP model performance in retrieval and zero-shot classification tasks and achieved an average score of 19.12. The approach achieved 2nd place in a competition, showcasing innovations in optimizing multimodal learning.
      
-4. **Brain Tumor Detection**
+6. **Brain Tumor Detection**
    - Proposed three methods to detect Brain tumors from MRI scans. The first method involved detecting brain tumors using image processing alone. This included the following: pre-processing, filtering, image segmentation, and morphological operations. The second and third methods involved using Gaussian Blur and Canny Edge Detection
 techniques, followed by training on CNN.
 
-5. **Credit Card Fraud Detection**
+7. **Credit Card Fraud Detection**
    - Worked with a highly imbalanced and large dataset for classifying credit card transactions as fraudulent and non-fraudulent. Performed extensive data preprocessing, data balancing and training of an ML model. Obtained an accuracy of 99.999% and achieved ‘0’ false negatives. Further, used Apache Spark to reduce training time.
 
-6. **Detection of Lung Diseases using Deep Learning**
+8. **Detection of Lung Diseases using Deep Learning**
    - Developed a deep learning model to classify chest X-rays into 14 lung disease categories and accurately predicted cases with no pathological findings.
 
-7. **Bank Marketing Segmentation**
+9. **Bank Marketing Segmentation**
    - This project aims to detect whether a particular customer will opt for term deposits. Machine Learning is used to train the algorithms on the dataset. Several pre-processing steps are applied to the dataset and refined for future use. Firstly, the outliers in the dataset are removed and then a label encoder is used to transform the data. Then, the data is balanced and trained using ML algorithms.
    - Link to the project repository: https://github.com/harshitamandalika/Bank-Marketing-Segmentation
 
-8. **Leaf Disease Detection**
+10. **Leaf Disease Detection**
    - Explored the PlantVillage dataset and used it to classify leaf images into healthy and diseased. Convolutional Neural Networks is used for training and classification of these images.
 
-9. **Employees Database using SQL**
+11. **Employees Database using SQL**
    - Employees database consists of 6 tables namely, employees, dept_manager, departments, titles, salaries, and dept_emp. Queries are written using SQL to extract the necessary information.
    - Link to the project repository: https://github.com/harshitamandalika/Employees-Database-using-SQL
      
-10. **Bank Customers Analysis using Tableau**
+12. **Bank Customers Analysis using Tableau**
     - The customers' data is visualized using Tableau. This analysis provides insights about how customers having different jobs, belonging to various age groups and gender are spread across regions. This helps in converting more customers by reaching the right set of people.
     - Link to the project repository: https://github.com/harshitamandalika/Bank-Customers-Analysis
 
-11. **Analyzing Customer Churn using Power BI**
+13. **Analyzing Customer Churn using Power BI**
     - Retaining existing customers is more cost-effective than acquiring new ones, making churn reduction a top priority for many companies. This project leverages Power BI to analyze the key reasons behind customer churn.
     - Link to the project repository: https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI
 
