@@ -21,14 +21,15 @@ Here are some of the projects I have completed:
 
 1. **Prediction of Dengue Fever**
    - Performed data cleaning, hyperparameter optimization, and feature selection, then trained the model. Found that Dengue Fever Count cannot be predicted accurately based on climatic factors alone. The other factors influencing dengue spread are studied. This work has been **published** in the **Inderscience Journal- 'International Journal of Artificial Intelligence and Soft Computing'**.
+   - 🔗 [View on GitHub](https://github.com/harshitamandalika/Prediction-of-Dengue-Fever-using-Machine-Learning./tree/main)
 
 2. **Send Me Studies**
    - A personalized research paper recommender that ranks papers using BM25 similarity and summarizes top results with LLMs. Sends recommendations via email and updates user profiles based on feedback extracted from email replies. Profiles evolve over time using liked abstracts and LLM-refined interests, helping generate increasingly personalized and relevant recommendations.
-   - 🔗 [SendMeStudies on GitHub](https://github.com/harshitamandalika/ISR_Project)
+   - 🔗 [View on GitHub](https://github.com/harshitamandalika/ISR_Project)
 
 3. **VitaFin: Health and Budget Tracker Dashboard**
    - An interactive dashboard that brings both health and budget visualizations together in one place. Built with Python, Flask, JavaScript, Vue.js, and Chart.js, it allows users to input personal data and view dynamic, real-time trends through a clean, responsive interface—demonstrating full-stack development and insightful data integration.
-   - 🔗 [VitaFin on GitHub](https://github.com/ApurvaMandalika9/DataVizProject-VitaFin)
+   - 🔗 [View on GitHub](https://github.com/ApurvaMandalika9/DataVizProject-VitaFin)
    
 4. **Meal Nutrition Analysis using Multimodal data**
    -  Developed a multimodal machine learning model to predict meal calorie content by integrating time-series CGM data, image data, and tabular data, including demographics and gut microbiome, showcasing advanced data fusion techniques for health tracking and dietary recommendations. Achieved an RMSRE score of 0.3374.
@@ -48,22 +49,22 @@ techniques, followed by training on CNN.
 
 9. **Bank Marketing Segmentation**
     - This project aims to detect whether a particular customer will opt for term deposits. Machine Learning is used to train the algorithms on the dataset. Several pre-processing steps are applied to the dataset and refined for future use. Firstly, the outliers in the dataset are removed and then a label encoder is used to transform the data. Then, the data is balanced and trained using ML algorithms.
-    - 🔗[Bank Marketing Segmentation on Github](https://github.com/harshitamandalika/Bank-Marketing-Segmentation)
+    - 🔗[View on Github](https://github.com/harshitamandalika/Bank-Marketing-Segmentation)
 
 10. **Leaf Disease Detection**
     - Explored the PlantVillage dataset and used it to classify leaf images into healthy and diseased. Convolutional Neural Networks is used for training and classification of these images.
 
 11. **Employees Database using SQL**
     - Employees database consists of 6 tables namely, employees, dept_manager, departments, titles, salaries, and dept_emp. Queries are written using SQL to extract the necessary information.
-    - 🔗[Employees Database on Github](https://github.com/harshitamandalika/Employees-Database-using-SQL)
+    - 🔗[View on Github](https://github.com/harshitamandalika/Employees-Database-using-SQL)
      
 12. **Bank Customers Analysis using Tableau**
     - The customers' data is visualized using Tableau. This analysis provides insights about how customers having different jobs, belonging to various age groups and gender are spread across regions. This helps in converting more customers by reaching the right set of people.
-    - 🔗[Bank Customers Analysis on Github](https://github.com/harshitamandalika/Bank-Customers-Analysis)
+    - 🔗[View on Github](https://github.com/harshitamandalika/Bank-Customers-Analysis)
 
 13. **Analyzing Customer Churn using Power BI**
     - Retaining existing customers is more cost-effective than acquiring new ones, making churn reduction a top priority for many companies. This project leverages Power BI to analyze the key reasons behind customer churn.
-    - 🔗[Analyzing Customer Churn on Github](https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI)
+    - 🔗[View on Github](https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI)
 
 ## Connect with Me
 
