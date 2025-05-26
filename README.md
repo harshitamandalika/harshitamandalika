@@ -2,7 +2,7 @@
 
 👋 **Hi there!** I'm Harshita Mandalika, a passionate enthusiast in **Machine Learning**, **Deep Learning**, and **Data Analytics**. I thrive on leveraging the power of data to enable informed decision-making and build intelligent solutions that make an impact.
 
-⭐ **Exciting News!** My **research paper** on **"Prediction of Dengue Fever using Machine Learning"** was recently **published** in the prestigious **Inderscience Journal - 'International Journal of Artificial Intelligence and Soft Computing'**.
+⭐ **Exciting News!** My **research paper** on **"Prediction of Dengue Fever using Machine Learning"** was **published** in the prestigious **Inderscience Journal - 'International Journal of Artificial Intelligence and Soft Computing'**.
 
 🎓 I am currently pursuing my **Master's in Computer Science** at **Texas A&M University, College Station**, where I am further honing my skills and exploring innovative research in the field of AI and data science.
 
@@ -20,6 +20,9 @@ Here are some of the projects I have completed:
 
 1. **Prediction of Dengue Fever**
    - Performed data cleaning, hyperparameter optimization, and feature selection, then trained the model. Found that Dengue Fever Count cannot be predicted accurately based on climatic factors alone. The other factors influencing dengue spread are studied. This work has been **published** in the **Inderscience Journal- 'International Journal of Artificial Intelligence and Soft Computing'**.
+
+2. **Send Me Studies**
+   - A personalized research paper recommender that ranks papers using BM25 similarity and summarizes top results with LLMs. Sends recommendations via email and updates user profiles based on feedback extracted from email replies. Profiles evolve over time using liked abstracts and LLM-refined interests, helping generate increasingly personalized and relevant recommendations.
 
 2. **Meal Nutrition Analysis using Multimodal data**
    -  Developed a multimodal machine learning model to predict meal calorie content by integrating time-series CGM data, image data, and tabular data, including demographics and gut microbiome, showcasing advanced data fusion techniques for health tracking and dietary recommendations.
