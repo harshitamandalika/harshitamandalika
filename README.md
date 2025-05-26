@@ -19,9 +19,8 @@
 
 Here are some of the projects I have completed:
 
-1. **Prediction of Dengue Fever**
+1. **Prediction of Dengue Fever 🔗 [View on GitHub](https://github.com/harshitamandalika/Prediction-of-Dengue-Fever-using-Machine-Learning./tree/main)**
    - Performed data cleaning, hyperparameter optimization, and feature selection, then trained the model. Found that Dengue Fever Count cannot be predicted accurately based on climatic factors alone. The other factors influencing dengue spread are studied. This work has been **published** in the **Inderscience Journal- 'International Journal of Artificial Intelligence and Soft Computing'**.
-   - 🔗 [View on GitHub](https://github.com/harshitamandalika/Prediction-of-Dengue-Fever-using-Machine-Learning./tree/main)
 
 2. **Send Me Studies**
    - A personalized research paper recommender that ranks papers using BM25 similarity and summarizes top results with LLMs. Sends recommendations via email and updates user profiles based on feedback extracted from email replies. Profiles evolve over time using liked abstracts and LLM-refined interests, helping generate increasingly personalized and relevant recommendations.
