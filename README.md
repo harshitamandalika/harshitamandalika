@@ -8,8 +8,9 @@
 
 ## Skills
 
-- 💻 **Programming Languages:** Python, SQL, HTML, CSS
-- 👩‍💻 **Technical Skills:** Machine Learning, Data Mining, Deep Learning, Image Processing, Data Analysis, Data Visualization
+- 💻 **Programming Languages:** Python, SQL, HTML, CSS, JavaScript
+- 👩‍💻 **Technical Skills:** Machine Learning, Data Mining, Deep Learning, Image Processing, Data Analysis, Data Visualization, Data Analytics, Information Retrieval, Ranking, Collaborative Filtering, Content-based Filtering
+- 🖥️ **Libraries & Frameworks:** Matplotlib, Seaborn, PyTorch, TensorFlow, Scikit-learn, Flask
 - 🟰 **Mathematical Skills:** Discrete Mathematics, Random Processes and Statistics, Linear Algebra and Differential Equations, Calculus
 - 📊 **Data Visualization Tools:** Power BI, Tableau, Excel
 - 🌈 **Soft Skills:**  Communication, Critical Thinking, Detail-oriented, Problem-solving, Time management, Analytical Thinking
