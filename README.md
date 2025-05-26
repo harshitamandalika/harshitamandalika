@@ -48,14 +48,14 @@ techniques, followed by training on CNN.
 
 9. **Bank Marketing Segmentation**
    - This project aims to detect whether a particular customer will opt for term deposits. Machine Learning is used to train the algorithms on the dataset. Several pre-processing steps are applied to the dataset and refined for future use. Firstly, the outliers in the dataset are removed and then a label encoder is used to transform the data. Then, the data is balanced and trained using ML algorithms.
-   - Link to the project repository: https://github.com/harshitamandalika/Bank-Marketing-Segmentation
+   - 🔗[Bank Marketing Segmentation on Github](https://github.com/harshitamandalika/Bank-Marketing-Segmentation)
 
 10. **Leaf Disease Detection**
    - Explored the PlantVillage dataset and used it to classify leaf images into healthy and diseased. Convolutional Neural Networks is used for training and classification of these images.
 
 11. **Employees Database using SQL**
    - Employees database consists of 6 tables namely, employees, dept_manager, departments, titles, salaries, and dept_emp. Queries are written using SQL to extract the necessary information.
-   - Link to the project repository: https://github.com/harshitamandalika/Employees-Database-using-SQL
+   - 🔗[Employees Database on Github](https://github.com/harshitamandalika/Employees-Database-using-SQL)
      
 12. **Bank Customers Analysis using Tableau**
     - The customers' data is visualized using Tableau. This analysis provides insights about how customers having different jobs, belonging to various age groups and gender are spread across regions. This helps in converting more customers by reaching the right set of people.
