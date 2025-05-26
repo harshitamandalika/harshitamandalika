@@ -29,7 +29,7 @@ Here are some of the projects I have completed:
    -  Developed a multimodal machine learning model to predict meal calorie content by integrating time-series CGM data, image data, and tabular data, including demographics and gut microbiome, showcasing advanced data fusion techniques for health tracking and dietary recommendations.
      
 3. **Improving CLIP Training for Multimodal Learning**
-   - Developed advanced training algorithms to enhance CLIP model performance in retrieval and zero-shot classification tasks. The approach achieved 2nd place in a competition, showcasing innovations in optimizing multimodal learning.
+   - Developed advanced training algorithms to enhance CLIP model performance in retrieval and zero-shot classification tasks and achieved an average score of 19.12. The approach achieved 2nd place in a competition, showcasing innovations in optimizing multimodal learning.
      
 4. **Brain Tumor Detection**
    - Proposed three methods to detect Brain tumors from MRI scans. The first method involved detecting brain tumors using image processing alone. This included the following: pre-processing, filtering, image segmentation, and morphological operations. The second and third methods involved using Gaussian Blur and Canny Edge Detection
