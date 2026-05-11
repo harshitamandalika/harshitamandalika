@@ -6,7 +6,7 @@ I am passionate about building intelligent, data-driven systems that turn comple
 
 🎓 During my Master's at Texas A&M University, I worked on projects involving research paper recommendation, NLP-based document matching, product review analysis, multimodal prediction, and AI-powered analytics tools.
 
-⭐ My research paper, **"Prediction of Dengue Fever using Machine Learning,"** was published in the **International Journal of Artificial Intelligence and Soft Computing** by Inderscience.
+⭐ My research paper, [**"Prediction of Dengue Fever using Machine Learning,"**](https://www.inderscienceonline.com/doi/abs/10.1504/IJAISC.2023.137356) was published in the **International Journal of Artificial Intelligence and Soft Computing** by Inderscience.
 
 🔍 I am currently exploring research directions in **Recommender Systems, Information Retrieval, Trustworthy Personalization, Privacy-Preserving Machine Learning, Responsible AI, and User Preference Modeling**.
 
