@@ -55,6 +55,7 @@ Here are some of the projects I have worked on across machine learning, NLP, rec
 7. **Meal Nutrition Analysis using Multimodal data**
    -  Developed a multimodal deep learning model combining CGM time-series data, meal images, and tabular health features to estimate lunch calories.
    -  Fused modality-specific embeddings into a joint representation, achieving 0.3374 RMSRE on unseen test data.
+   - 🔗 [View on GitHub](https://github.com/harshitamandalika/Multimodal-Calorie-Predictor)
 
 8. **Improving CLIP Training for Multimodal Learning**
    - Developed advanced training algorithms to enhance CLIP model performance in retrieval and zero-shot classification tasks and achieved an average score of 19.12.
