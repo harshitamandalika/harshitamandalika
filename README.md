@@ -67,38 +67,38 @@ Here are some of the projects I have worked on across machine learning, NLP, rec
    - 🔗 [View on GitHub](https://github.com/harshitamandalika/Sleep-Health-and-Lifestyle-EDA)
      
 10. **Brain Tumor Detection**
-   - Proposed three methods to detect Brain tumors from MRI scans.
-   - The first method involved detecting brain tumors using image processing alone. This included the following: pre-processing, filtering, image segmentation, and morphological operations. The second and third methods involved using Gaussian Blur and Canny Edge Detection techniques, followed by training on CNN.
+    - Proposed three methods to detect Brain tumors from MRI scans.
+    - The first method involved detecting brain tumors using image processing alone. This included the following: pre-processing, filtering, image segmentation, and morphological operations. The second and third methods involved using Gaussian Blur and Canny Edge Detection techniques, followed by training on CNN.
 
 11. **Credit Card Fraud Detection**
-   - Worked with a highly imbalanced and large dataset for classifying credit card transactions as fraudulent and non-fraudulent.
-   - Performed extensive data preprocessing, data balancing and training of an ML model.
-   - Obtained an accuracy of 99.999% and achieved ‘0’ false negatives. Further, used Apache Spark to reduce training time.
+    - Worked with a highly imbalanced and large dataset for classifying credit card transactions as fraudulent and non-fraudulent.
+    - Performed extensive data preprocessing, data balancing and training of an ML model.
+    - Obtained an accuracy of 99.999% and achieved ‘0’ false negatives. Further, used Apache Spark to reduce training time.
 
 12. **Detection of Lung Diseases using Deep Learning**
-   - Developed a deep learning model to classify chest X-rays into 14 lung disease categories and accurately predicted cases with no pathological findings.
+    - Developed a deep learning model to classify chest X-rays into 14 lung disease categories and accurately predicted cases with no pathological findings.
 
-13. **Bank Marketing Segmentation**
+14. **Bank Marketing Segmentation**
     - Predicted whether a particular customer will opt for term deposits.
     - Used Machine Learning to train the algorithms on the dataset. Several pre-processing steps are applied to the dataset and refined for future use. Firstly, the outliers in the dataset are removed and then a label encoder is used to transform the data. Then, the data is balanced and trained using ML algorithms.
     - 🔗[View on Github](https://github.com/harshitamandalika/Bank-Marketing-Segmentation)
 
-14. **Leaf Disease Detection**
+16. **Leaf Disease Detection**
     - Explored the PlantVillage dataset and used it to classify leaf images into healthy and diseased.
     - Convolutional Neural Networks is used for training and classification of these images.
 
-15. **Employees Database using SQL**
+18. **Employees Database using SQL**
     - Employees database consists of 6 tables namely, employees, dept_manager, departments, titles, salaries, and dept_emp.
     - Used SQL queries to extract the necessary information.
     - 🔗[View on Github](https://github.com/harshitamandalika/Employees-Database-using-SQL)
      
-16. **Bank Customers Analysis using Tableau**
+20. **Bank Customers Analysis using Tableau**
     - Built an interactive Tableau dashboard to analyze bank customer demographics across job type, age group, gender, and region, helping identify high-potential customer segments for targeted marketing and improved customer conversion.
     - 🔗[View on Github](https://github.com/harshitamandalika/Bank-Customers-Analysis)
 
-17. **Analyzing Customer Churn using Power BI**
+22. **Analyzing Customer Churn using Power BI**
     - Retaining existing customers is more cost-effective than acquiring new ones, making churn reduction a top priority for many companies. This project leverages Power BI to analyze the key reasons behind customer churn.
-    - 🔗[View on Github](https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI)
+    -  🔗[View on Github](https://github.com/harshitamandalika/Analyzing-Customer-Churn-using-PowerBI)
 
 ## Connect with Me
 
