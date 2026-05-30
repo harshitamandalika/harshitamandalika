@@ -68,13 +68,13 @@ Here are some of the projects I have worked on across machine learning, NLP, rec
    - 🔗 [View on GitHub](https://github.com/harshitamandalika/Multimodal-Calorie-Predictor)
 
 10. **Improving CLIP Training for Multimodal Learning**
-   - Developed advanced training algorithms to enhance CLIP model performance in retrieval and zero-shot classification tasks and achieved an average score of 19.12.
-   - The approach achieved 2nd place in a competition, showcasing innovations in optimizing multimodal learning.
+    - Developed advanced training algorithms to enhance CLIP model performance in retrieval and zero-shot classification tasks and achieved an average score of 19.12.
+    - The approach achieved 2nd place in a competition, showcasing innovations in optimizing multimodal learning.
 
 11. **Sleep Health and Lifestyle EDA**
-   - Exploratory data analysis on 400 lifestyle records to uncover the true drivers of sleep quality — revealing that stress (r = −0.90) far outweighs physical activity (r = 0.02) as a predictor, with additional insights by occupation, age, and cardiovascular markers.
-   - Built with Python (pandas, seaborn, matplotlib).
-   - 🔗 [View on GitHub](https://github.com/harshitamandalika/Sleep-Health-and-Lifestyle-EDA)
+    - Exploratory data analysis on 400 lifestyle records to uncover the true drivers of sleep quality — revealing that stress (r = −0.90) far outweighs physical activity (r = 0.02) as a predictor, with additional insights by occupation, age, and cardiovascular markers.
+    - Built with Python (pandas, seaborn, matplotlib).
+    - 🔗 [View on GitHub](https://github.com/harshitamandalika/Sleep-Health-and-Lifestyle-EDA)
      
 12. **Brain Tumor Detection**
     - Proposed three methods to detect Brain tumors from MRI scans.
