@@ -8,8 +8,6 @@ I am passionate about building intelligent, data-driven systems that turn comple
 
 ⭐ My research paper, [**"Prediction of Dengue Fever using Machine Learning,"**](https://www.inderscienceonline.com/doi/abs/10.1504/IJAISC.2023.137356) was published in the **International Journal of Artificial Intelligence and Soft Computing** by Inderscience.
 
-🔍 I am currently exploring research directions in **Recommender Systems, Information Retrieval, Trustworthy Personalization, Privacy-Preserving Machine Learning, Responsible AI, and User Preference Modeling**.
-
 ## Skills
 
 - 💻 **Programming Languages:** Python, SQL, JavaScript, HTML, CSS
