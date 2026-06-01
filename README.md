@@ -4,7 +4,7 @@ AI/ML Engineer specializing in **LLM fine-tuning, RAG pipelines, search & rankin
 
 Master's in Computer Science @ Texas A&M (GPA 3.9) &nbsp;|&nbsp; Open to AI/ML Engineering roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitamandalika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-mandalika)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://harshitamandalika.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshitamandalika029)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitamandalika029@gmail.com)
