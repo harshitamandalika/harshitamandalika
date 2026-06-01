@@ -60,7 +60,7 @@ Multimodal deep learning model fusing CGM time-series transformers, meal image C
 
 ---
 
-## 📝 Resume IQ
+### 📝 Resume IQ
 NLP-based ATS optimizer comparing PDF resumes with job descriptions. Generates alignment scores, matched/missing keywords, validated skills, and bullet-level revision feedback using Sentence-BERT, KeyBERT, and PyMuPDF.  
 `Python` `Sentence-BERT` `KeyBERT` `PyMuPDF` `NLP`  
 [🔗 View Project](https://github.com/harshitamandalika/ResumeIQ---NLP-Project)
