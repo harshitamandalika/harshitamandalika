@@ -71,6 +71,6 @@ NLP-based ATS optimizer comparing PDF resumes with job descriptions. Generates a
 
 **Prediction of Dengue Fever using Machine Learning**  
 *International Journal of Artificial Intelligence and Soft Computing (IJAISC), Inderscience, 2023, Vol. 8 No. 1*  
-[→ Read Paper](https://www.inderscienceonline.com/doi/abs/10.1504/IJAISC.2023.137356)
+[🔗 Read Paper](https://www.inderscienceonline.com/doi/abs/10.1504/IJAISC.2023.137356)
 
 📬 **Open to AI/ML Engineering roles** - reach out at harshitamandalika029@gmail.com
