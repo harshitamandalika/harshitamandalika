@@ -1,8 +1,8 @@
 # Hi, I'm Harshita 👋
 
-AI/ML Engineer specializing in **LLM fine-tuning, RAG pipelines, search & ranking, and agentic AI systems**.
+AI/ML Engineer specializing in **RAG pipelines, LLM fine-tuning, search & ranking, and agentic AI systems**.
 
-Master's in Computer Science @ Texas A&M (GPA 3.9) &nbsp;|&nbsp; Open to AI/ML Engineering roles
+Master's in Computer Science @ Texas A&M (GPA 3.9) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-mandalika)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://harshitamandalika.github.io/)
@@ -11,7 +11,7 @@ Master's in Computer Science @ Texas A&M (GPA 3.9) &nbsp;|&nbsp; Open to AI/ML E
 
 ## 🔧 Tech Stack
 
-**AI & GenAI:** LLM Fine-tuning · QLoRA · PEFT · RAG · LangChain · LangGraph · HuggingFace · Gemini API · Transformers  
+**LLM & Agentic AI:** LLM Fine-tuning · QLoRA · PEFT · RAG · LangChain · LangGraph · HuggingFace · Gemini API · Transformers  
 **Search & Retrieval:** Hybrid Retrieval · BM25 · Dense Vector Search · Reciprocal Rank Fusion · ChromaDB · Information Retrieval  
 **ML & Evaluation:** RAGAS · BERTScore · ROUGE · NLP · PyTorch · MLflow · A/B Testing  
 **Engineering:** FastAPI · Docker · GitHub Actions · Streamlit · React · AWS · Python · SQL
@@ -72,5 +72,3 @@ NLP-based ATS optimizer comparing PDF resumes with job descriptions. Generates a
 **Prediction of Dengue Fever using Machine Learning**  
 *International Journal of Artificial Intelligence and Soft Computing (IJAISC), Inderscience, 2023, Vol. 8 No. 1*  
 [🔗 Read Paper](https://www.inderscienceonline.com/doi/abs/10.1504/IJAISC.2023.137356)
-
-📬 **Open to AI/ML Engineering roles** - reach out at harshitamandalika029@gmail.com
